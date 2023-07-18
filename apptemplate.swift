@@ -2,8 +2,6 @@
 //  dripApp.swift
 //  drip
 //
-//  Created by Sid Ajay on 5/9/21.
-//  References: Stack Overflow, Hacking With Swift, Arduino Website, Apple Website, Swift website
 
 import SwiftUI
 import CoreLocation
